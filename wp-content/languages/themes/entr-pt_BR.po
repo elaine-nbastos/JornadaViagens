@@ -1,0 +1,229 @@
+# Translation of Themes - Entr in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Entr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-13 12:40:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Entr\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Entr is a fast, clean, lightweight, customizable and modern-looking free responsive multipurpose WordPress theme. Suitable for e-commerce, blog, creative, hotels, restaurants, startups, portfolio, fitness, food, news, developer or business website and WooCommerce storefront. Theme works perfectly with the new block editor (Gutenberg) and popular page builders like Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer etc. Entr is perfect as starter theme and it is compatible with WooCommerce or other popular WordPress plugins. The theme is SEO friendly, WPML and RTL ready. Documentation: https://envothemes.com/docs/docs/entr/ Theme demo ready to import: https://envothemes.com/entr/"
+msgstr "Entr é um tema WordPress responsivo gratuito, rápido, limpo, leve, personalizável e de aparência moderna. Adequado para e-commerce, blog, criativo, hotéis, restaurantes, startups, portfólio, fitness, comida, notícias, desenvolvedor ou site de negócios e loja WooCommerce. O tema funciona perfeitamente com o novo editor de blocos (Gutenberg) e construtores de páginas populares como Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer etc. Entr é perfeito como tema inicial e é compatível com WooCommerce ou outro WordPress popular plug-ins. O tema é compatível com SEO, pronto para WPML e RTL. Documentação: https://envothemes.com/docs/docs/entr/ Demonstração do tema pronta para importar: https://envothemes.com/entr/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Entr"
+msgstr "Entr"
+
+#: lib/customizer/install/class-plugin-install-helper.php:110
+#: lib/customizer/notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr "Ativar"
+
+#. Template Name of the theme
+msgid "Page Builders"
+msgstr "Page Builders"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "Sem barras laterais"
+
+#. translators: %s: Search results
+#: search.php:7
+msgid "Results for \"%s\""
+msgstr "Resultados para \"%s\""
+
+#: lib/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr "Adicionar ao menu"
+
+#: lib/woocommerce.php:114
+msgid "Compare"
+msgstr "Comparar"
+
+#: lib/woocommerce.php:95
+msgid "Wishlist"
+msgstr "Lista de Desejos"
+
+#: lib/woocommerce.php:76
+msgid "My Account"
+msgstr "Minha Conta"
+
+#: lib/woocommerce.php:6
+msgid "Cart"
+msgstr "Carrinho"
+
+#. translators: %1$s: Entr theme author (do not translate) with envothemes.com
+#. URL
+#: lib/extra.php:544
+msgctxt "Theme author"
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. translators: %1$s: Entr theme author (do not translate) with envothemes.com
+#. URL
+#: lib/extra.php:544
+msgid "Theme by %1$s"
+msgstr "Tema por %1$s"
+
+#: lib/extra.php:500
+msgid "Tags"
+msgstr "Tags"
+
+#: lib/extra.php:496
+msgid "Category"
+msgstr "Categoria"
+
+#: lib/extra.php:385
+msgid "Next"
+msgstr "Próximo"
+
+#: lib/extra.php:385
+msgid "Next Post"
+msgstr "Próximo post"
+
+#: lib/extra.php:384
+msgid "Previous"
+msgstr "Anteriores"
+
+#: lib/extra.php:384
+msgid "Previous Post"
+msgstr "Post anterior"
+
+#: lib/extra.php:270
+msgid "About The Author"
+msgstr "Sobre o Autor"
+
+#: lib/extra.php:247
+msgid "Comment on "
+msgstr "Comentar"
+
+#: lib/extra.php:244
+msgid "Off"
+msgstr "Off"
+
+#: lib/extra.php:221
+msgid "By"
+msgstr "Por"
+
+#: lib/entr-plugin-install.php:75
+msgid "Learn more"
+msgstr "Saber mais"
+
+#: lib/customizer-recommend.php:27 lib/entr-plugin-install.php:55
+msgid "Install now"
+msgstr "Instalar agora"
+
+#: lib/entr-dashboard.php:83 lib/entr-dashboard.php:139
+msgid "Install"
+msgstr "Instalar"
+
+#: lib/customizer-recommend.php:28
+#: lib/customizer/install/class-plugin-install-helper.php:59
+#: lib/customizer/install/class-plugin-install-helper.php:75
+#: lib/entr-dashboard.php:83 lib/entr-dashboard.php:139
+#: lib/entr-plugin-install.php:40
+msgid "Activate"
+msgstr "Ativar"
+
+#: lib/entr-dashboard.php:83 lib/entr-dashboard.php:139
+#: lib/entr-plugin-install.php:29
+msgid "Activated"
+msgstr "Ativado"
+
+#. translators: %s: Theme name
+#: lib/entr-dashboard.php:87
+msgid "Get started with %s"
+msgstr "Comece com %s"
+
+#. translators: %s: Plugin name string
+#: lib/customizer-recommend.php:22 lib/entr-dashboard.php:79
+#: lib/entr-dashboard.php:136
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "Para aproveitar o máximo de todos os recursos que esse tema tem para oferecer, instale e ative o plugin%s."
+
+#. translators: %s: Theme name
+#: lib/customizer-recommend.php:26 lib/entr-dashboard.php:73
+#: lib/entr-dashboard.php:130
+msgid "Thank you for installing %s."
+msgstr "Obrigado por instalar %s."
+
+#: functions.php:434
+msgid "Skip to the content"
+msgstr "Pular para o conteúdo"
+
+#: functions.php:401
+msgid "Footer Section"
+msgstr "Seção de rodapé"
+
+#: functions.php:391
+msgid "Sidebar"
+msgstr "Lateral"
+
+#: functions.php:24
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você está procurando. Talvez pesquisar possa ajudar."
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#. translators: %1$s: link to admin area
+#: content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensou em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensou nos &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um comentário sobre &ldquo;%s&rdquo;"
+
+#: 404.php:7
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que nada foi encontrado neste endereço. Que tal tentar fazer uma pesquisa?"
+
+#: 404.php:5
+msgid "Nothing here"
+msgstr "Nada aqui"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://envothemes.com/"
+msgstr "https://envothemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "EnvoThemes"
+msgstr "EnvoThemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://envothemes.com/entr-free-wp-theme/"
+msgstr "https://envothemes.com/entr-free-wp-theme/"

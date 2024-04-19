@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>América Central e Caribe &#8211; Jornada Viagens</title>
+	<atom:link href="https://github.com/elaine-nbastos/JornadaViagens.git/category/america-central-e-caribe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/elaine-nbastos/JornadaViagens.git</link>
+	<description></description>
+	<lastBuildDate>Mon, 15 Apr 2024 19:17:45 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Dicas de hospedagem barata no México</title>
+		<link>https://github.com/elaine-nbastos/JornadaViagens.git/2024/04/15/dicas-de-hospedagem-barata-no-mexico/</link>
+					<comments>https://github.com/elaine-nbastos/JornadaViagens.git/2024/04/15/dicas-de-hospedagem-barata-no-mexico/#respond</comments>
+		
+		<dc:creator><![CDATA[Elaine]]></dc:creator>
+		<pubDate>Mon, 15 Apr 2024 19:17:45 +0000</pubDate>
+				<category><![CDATA[América Central e Caribe]]></category>
+		<category><![CDATA[Dicas]]></category>
+		<category><![CDATA[Hospedagem barata]]></category>
+		<category><![CDATA[México]]></category>
+		<guid isPermaLink="false">https://github.com/elaine-nbastos/JornadaViagens.git/?p=6</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/elaine-nbastos/JornadaViagens.git/2024/04/15/dicas-de-hospedagem-barata-no-mexico/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
